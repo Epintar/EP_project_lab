@@ -2,3 +2,7 @@ Mayo
 Cheese
 Bread
 Ham
+
+Lettuce
+Swiss
+Turkey
